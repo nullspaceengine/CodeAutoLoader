@@ -1,0 +1,26 @@
+{
+  "name": "modeAutoLoader",
+  "version": "0.1.0",
+  "description": "Code Auto Loader -- Load Modules (and objects and libraries) automatically. Used with the nullspaceengine",
+  "keywords": [
+    "auto require",
+    "auto module loader",
+    "auto code inclusion",
+    "automation",
+    "nullspace"
+  ],
+  "bugs": {
+    "url": ""
+  },
+  "license": "",
+  "author": {
+    "name": "Frank Anderson",
+    "email": "anderson.frankrobert@gmail.com",
+    "url": "http://www.frankrobertanderson.com"
+  },
+  "main": "./codeAutoLoader.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
